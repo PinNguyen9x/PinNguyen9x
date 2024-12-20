@@ -3,7 +3,7 @@
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
-* ✉️  You can contact me at [nguyenthanhpin95@gmail.com](mailto:nguyenthanhpin@gmail.com) or [https://nipit.pro](https://nipit.pro)
+* ✉️  You can contact me at [nguyenthanhpin95@gmail.com](mailto:nguyenthanhpin@gmail.com) or <a href="https://nipit.pro" target="_blank">https://nipit.pro</a>
 * 🤝  I'm open to collaborating on interesting projects
   
 # Skills
