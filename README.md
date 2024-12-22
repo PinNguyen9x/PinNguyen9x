@@ -1,4 +1,4 @@
-# Pin Nguyen - Software Engineer
+# Pin Nguyen - Web Developer
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
